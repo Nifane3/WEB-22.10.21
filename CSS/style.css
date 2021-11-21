@@ -1,0 +1,44 @@
+#a {
+  background: #e6ccff;
+}
+
+.a2 {
+  color: #9466ff;;
+}
+
+.a1 {
+    color: #ff6666;
+    background-color: #fffae6;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+  }
+
+h3, h2, #a{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.justText {
+  text-align: justify;
+}
+
+ul {
+  text-align: left;
+}
+
+  :link:hover {
+    background: #fdff90;
+  }
+
+.resolImg {
+  width: 211px;
+  height: 300px;
+}
+
+#tres {
+  width: 247px;
+  height: 391px;
+}
